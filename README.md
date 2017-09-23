@@ -1,0 +1,1 @@
+Jhotdraw version 6.0b1 to use with maven
